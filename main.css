@@ -1,0 +1,84 @@
+body {
+    background-color: black;
+    color: lightgray;
+    text-shadow: 2px 2px 3.5px #000;
+}
+p {
+    text-align: center;
+    margin: auto;
+    font-size: 35px;
+    padding: 20px;
+}
+.main_heading p {
+    font-family: Anonymous Pro;
+}
+.main_heading h1 {
+    padding: 30px;
+    position: relative;
+    font-family: sans-serif;
+    text-align: center;
+    
+}
+.sec {
+    font-family: source sans pro light;
+}
+.tert {
+    font-family: Open Sans light;
+}
+.quad {
+    font-family: Arial;
+}
+.pent {
+    font-family: Consolas;
+}
+.hex {
+    font-family: serif;
+}
+.bg1 {
+    height: 90%;
+    background-image: url("http://static.thecitypictures.net/cache/1890x1920-3/cloudy-shanghai-skyline.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.bg2 {
+    height: 40%;
+    background-image: url("https://nycscholasticawards.files.wordpress.com/2012/09/lao-hiokit-city-under-clouds.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.bg3 {
+    height: 40%;
+    background-image: url("http://wvs.topleftpixel.com/photos/2008/05/fog_toronto_east_clouds_wide_01.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.bg4 {
+    height: 40%;
+    background-image: url("http://i.imgur.com/lq5ZT.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.bg5 {
+    height: 40%;
+    background-image: url("http://www.johndenugent.com/images/manhattan-skyline-fog.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.bg6 {
+    height: 40%;
+    background-image: url("http://img.izismile.com/img/img5/20120403/640/dubais_skyline_through_the_blanket_of_fog_640_04.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
