@@ -1,5 +1,5 @@
 function giveHint() {
-    document.getElementById("hint").innerHTML="In all likelihood, you have used X.";
+    document.getElementById("hint").innerHTML="1: In all likelihood, you have used X    2: Specifically, these vehicles were tractors";
 }
 function check() {
     var ans = "";
