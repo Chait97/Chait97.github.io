@@ -1,0 +1,13 @@
+function giveHint() {
+    document.getElementById("hint").innerHTML="In all likelihood, you have used X.";
+}
+function check() {
+    var ans = "";
+    ans=document.getElementById("answer").value;
+    if(ans=="Farmville, Zynga"||ans=="FarmVille, Zynga"){
+        document.getElementById("result").innerHTML="That's it. Good job!";
+    }
+    else{
+        document.getElementById("result").innerHTML="Nope, try again...";
+    }
+}
